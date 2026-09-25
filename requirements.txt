@@ -1,0 +1,6 @@
+yfinance
+pandas
+matplotlib
+scikit-learn
+streamlit
+# python -m streamlit run app.py
